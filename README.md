@@ -35,7 +35,7 @@ My goal is to build AI that augments human capability — not just automate task
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [<your link>  ](https://www.linkedin.com/in/benjamin-bobo-61200a116/)
+- LinkedIn: https://www.linkedin.com/in/benjamin-bobo-61200a116/
 - Email: benbobo360@gmail.com 
 
 Thanks for stopping by, always happy to talk AI, automation, or the future of intelligent systems.
