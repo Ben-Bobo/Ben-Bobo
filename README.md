@@ -1,4 +1,4 @@
-# Hi 👋  
+# Hi ⚡
 ### Manager, AI & Automation | Builder of Intelligent Enterprise Systems
 
 I lead teams focused on designing and deploying AI-driven automation across enterprise.  
@@ -19,18 +19,7 @@ I’m passionate about:
 - Leading teams that bridge strategy, engineering, and applied AI  
 
 ---
-
-## 🧰 Tools & Technologies I Work With
-- **AI/ML:** LLMs, RAG, agent frameworks, vector search  
-- **Automation:** Workflow orchestration, enterprise automation platforms  
-- **Cloud:** Azure, AWS  
-- **Engineering:** Python, TypeScript, API design, system architecture  
-
----
-
-## 📚 What Drives Me
-I believe the future of work is shaped by systems that can **reason**, **adapt**, and **learn**.  
-~ "The best way to predict the future is to invent it."
+> "The best way to predict the future is to invent it."
 ---
 
 ## 📫 Connect With Me
