@@ -30,8 +30,7 @@ I’m passionate about:
 
 ## 📚 What Drives Me
 I believe the future of work is shaped by systems that can **reason**, **adapt**, and **learn**.  
-My goal is to build AI that augments human capability — not just automate tasks, but elevate how people solve problems.
-
+~ "The best way to predict the future is to invent it."
 ---
 
 ## 📫 Connect With Me
