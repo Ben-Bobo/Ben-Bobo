@@ -1,4 +1,4 @@
-#### ⚡ AI & Automation | Builder of Intelligent Enterprise Systems
+#### ⚡ AI & Automation Leader | Builder of Intelligent Enterprise Systems
 
 I lead teams focused on designing and deploying AI-driven projects across enterprise. 
 
