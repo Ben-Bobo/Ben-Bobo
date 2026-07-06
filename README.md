@@ -1,6 +1,6 @@
-#### ⚡ Manager, AI & Automation | Builder of Intelligent Enterprise Systems
+#### ⚡ AI & Automation | Builder of Intelligent Enterprise Systems
 
-I lead teams focused on designing and deploying AI-driven automation across enterprise. 
+I lead teams focused on designing and deploying AI-driven projects across enterprise. 
 
 I’m passionate about:
 - 🤖 Applying AI to real-world business problems  
